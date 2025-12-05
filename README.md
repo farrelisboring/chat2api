@@ -6,7 +6,7 @@
 
 🌟 Free, unlimited `GPT-3.5` available without an account
 
-💥 Support AccessToken account, support `GPT-4`, `GPT-4o`, `GPTs`
+💥 Support AccessToken account, support `GPT-4`, `GPT-4o`, `GPT-5` (and future variants), `GPTs`
 
 🔍 The reply format is completely consistent with the real API and adapts to almost all clients.
 
